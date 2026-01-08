@@ -57,7 +57,7 @@ export class AuthService {
       (res: any) => {
         if (res) {
           this._snackBar.open(
-            'Expense Tracker Account Created SuccessFully',
+            'Financial Manager Account Created SuccessFully',
             '',
             { duration: 4000 }
           );

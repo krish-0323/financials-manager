@@ -1,4 +1,4 @@
-# ExpenseTracker
+# Financial Manager
 - Implemented robust APIs using Express.js and Node.js, enabling smooth data retrieval and manipulation.
 - Ensured secure access to sensitive features by implementing user authentication and authorization mechanisms in this application.
 
